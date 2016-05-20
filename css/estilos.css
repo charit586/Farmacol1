@@ -1,0 +1,22 @@
+
+.container1{
+	width: 600px;
+	height: 420px;
+	padding: 20px;
+	border:solid 1px #999;
+	margin:auto;
+	background-color:#F1F1F1;
+}
+#slider1{
+	position: relative;
+	width: 400px;
+	height: 200px;
+	padding: 10px;
+	background-color: #000;
+	margin: 0 auto;
+}
+#slider1 > div{
+	position: absolute;
+	width: 70%;
+	height: 70%;
+}
